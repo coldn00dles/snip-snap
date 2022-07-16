@@ -2,7 +2,7 @@
 
 Snip-Snap is a simple URL Shortener, which uses the [shrtcode API](https://shrtco.de/docs/) to generate shortened links. 
 
-#### Technologies I know and have worked with
+### Technologies used
 
 <p align="left">
     <a href="https://reactjs.org/" target="_blank">

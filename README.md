@@ -6,7 +6,7 @@ Snip-Snap is a simple URL Shortener, which uses the [shrtcode API](https://shrtc
 
 <p align="left">
     <a href="https://reactjs.org/" target="_blank">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/react-js.svg" alt="react.js" width="60" height="60"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react.js" width="60" height="60"/>
 		<h4>
 		</h4>
 		<a href="https://mui.com/" target="_blank">
